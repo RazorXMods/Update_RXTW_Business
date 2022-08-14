@@ -4,15 +4,15 @@
 	"update": [
 		{
 			"languaje": "en",
-			"changelog": "https://raw.githubusercontent.com/RazorXMods/changelog-en-TW/main/changelog-en.html"
+			"changelog": "https://raw.githubusercontent.com/RazorXMods/Changelog_TW_B/main/changelog-en.html"
 		},
 		{
 			"languaje": "es",
-			"changelog": "https://raw.githubusercontent.com/RazorXMods/changelog-en-TW/main/changelog-es.html"
+			"changelog": "https://raw.githubusercontent.com/RazorXMods/Changelog_TW_B/main/changelog-es.html"
 		},
 		{
 			"languaje": "pt",
-			"changelog": "https://raw.githubusercontent.com/RazorXMods/changelog-en-TW/main/changelog-pt.html"
+			"changelog": "https://raw.githubusercontent.com/RazorXMods/Changelog_TW_B/main/changelog-pt.html"
 		}
 	]
 }
