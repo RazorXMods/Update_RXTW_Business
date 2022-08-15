@@ -1,5 +1,5 @@
 {
-	"version": "4.1",
+	"version": "4.0",
 	"download": "https://t.me/RXTWhatsAppMods",
 	"update": [
 		{
